@@ -1,0 +1,53 @@
+{
+  "name": "ZkSync Token List",
+  "logoURI": "https://docs.zksync.io/logo.svg",
+  "keywords": [
+    "Defi"
+  ],
+  "tags": {
+    "defi": {
+      "name": "DeFi Tokens",
+      "description": "Tokens associated with the products listed"
+    }
+  },
+  "timestamp": "2023-02-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 280,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/eth.svg?alt=media&token=1985e3d8-3aa7-4d04-8839-565d4c341615"
+    },
+    {
+      "chainId": 280,
+      "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/usdc.svg?alt=media&token=1985e3d8-3aa7-4d04-8839-565d4c341615"
+    },
+    {
+      "name": "DAI",
+      "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/dai.svg?alt=media&token=1985e3d8-3aa7-4d04-8839-565d4c341615"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x4587233fc08F3ead5ef94513B9953b53Aea9be01",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/dai.svg?alt=media&token=1985e3d8-3aa7-4d04-8839-565d4c341615"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 46,
+    "patch": 0
+  }
+}
