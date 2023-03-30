@@ -35,6 +35,14 @@
       "decimals": 18,
       "chainId": 280,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/dai.svg?alt=media&token=1985e3d8-3aa7-4d04-8839-565d4c341615"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x4587233fc08F3ead5ef94513B9953b53Aea9be01",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/dai.svg?alt=media&token=1985e3d8-3aa7-4d04-8839-565d4c341615"
     }
   ],
   "version": {
